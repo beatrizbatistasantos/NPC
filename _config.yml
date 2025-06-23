@@ -1,4 +1,4 @@
-description: Site desenvolvido para mostrar o funcionamento do NPC.
+description: Vamos ver quanto tempo você consegue sobreviver?
 remote_theme: pages-themes/Midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
